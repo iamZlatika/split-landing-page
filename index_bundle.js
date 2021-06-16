@@ -8073,7 +8073,7 @@ ___CSS_LOADER_EXPORT___.push([module.id, "* {\n  -webkit-box-sizing: border-box;
 
 /***/ }),
 
-/***/ "./src/imgs/ps1.jpg":
+/***/ "/ps1.jpg":
 /*!**************************!*\
   !*** ./src/imgs/ps1.jpg ***!
   \**************************/
@@ -8087,7 +8087,7 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./src/imgs/xbox.jpg":
+/***/ "./xbox.jpg":
 /*!***************************!*\
   !*** ./src/imgs/xbox.jpg ***!
   \***************************/
